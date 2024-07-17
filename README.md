@@ -2,14 +2,20 @@
 
 ## 30 Days of Code
 
-### Day-1
+### [Day-1]
 
 #### Solved moving zeros to right side problem
 
-[LeetCode Link](https://leetcode.com/problems/set-matrix-zeroes/)
+[Leet Code Link](https://leetcode.com/problems/set-matrix-zeroes/)
 
-### Day-2
+### [Day-2]
 
 #### Solved Matrix Problem
 
-[LeetCode Link](https://leetcode.com/problems/set-matrix-zeroes/solutions/5406533/easy-js-solution-check-it-out/)
+[Leet Code Link](https://leetcode.com/problems/set-matrix-zeroes/solutions/5406533/easy-js-solution-check-it-out/)
+
+### [Day-3]
+
+### Solved max profit by selling and buying stock problem
+
+[Leet Code Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)
