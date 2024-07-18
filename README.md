@@ -19,3 +19,9 @@
 ### Solved max profit by selling and buying stock problem
 
 [Leet Code Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)
+
+### [Day-4]
+
+### Problem of chocolate distribution
+
+[GFG](https://www.geeksforgeeks.org/chocolate-distribution-problem/)
