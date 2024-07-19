@@ -25,3 +25,9 @@
 ### Problem of chocolate distribution
 
 [GFG](https://www.geeksforgeeks.org/chocolate-distribution-problem/)
+
+### [Day-5]
+
+### Sort Colors
+
+[Leet Code Link](https://leetcode.com/problems/sort-colors/)
