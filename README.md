@@ -28,6 +28,12 @@
 
 ### [Day-5]
 
+### Repeatative Numbers
+
+[Leet Code Link](https://leetcode.com/problems/find-the-duplicate-number/)
+
+### [Day-6]
+
 ### Sort Colors
 
 [Leet Code Link](https://leetcode.com/problems/sort-colors/)
