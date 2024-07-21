@@ -37,3 +37,9 @@
 ### Sort Colors
 
 [Leet Code Link](https://leetcode.com/problems/sort-colors/)
+
+### [Day-7]
+
+### Remove Duplicates from Sorted Array
+
+[Leet Code Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)
