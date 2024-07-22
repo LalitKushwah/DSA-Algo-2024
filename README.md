@@ -43,3 +43,9 @@
 ### Remove Duplicates from Sorted Array
 
 [Leet Code Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)
+
+### [Day-8]
+
+### Best Time to Buy and Sell Stock II
+
+[Leet Code Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/)
