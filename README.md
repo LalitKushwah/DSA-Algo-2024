@@ -55,3 +55,9 @@
 ### Subarray Sums Divisible by K
 
 [Leet Code Link](https://leetcode.com/problems/subarray-sums-divisible-by-k/description/)
+
+### [Day-10]
+
+### Find All Duplicates in an Array
+
+[Leet Code Link](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/)
