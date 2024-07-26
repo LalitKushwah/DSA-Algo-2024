@@ -67,3 +67,9 @@
 ### Container With Most Water
 
 [Leet Code Link](https://leetcode.com/problems/container-with-most-water/description/)
+
+### [Day-12]
+
+### 3 Sum
+
+[Leet Code Link](https://leetcode.com/problems/3sum/submissions/1334503397/)
