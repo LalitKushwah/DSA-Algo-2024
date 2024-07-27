@@ -73,3 +73,9 @@
 ### 3 Sum
 
 [Leet Code Link](https://leetcode.com/problems/3sum/submissions/1334503397/)
+
+### [Day-13]
+
+### Valid Parenthethis
+
+[Leet Code Link](https://leetcode.com/problems/valid-parentheses/submissions/1334803336/)
