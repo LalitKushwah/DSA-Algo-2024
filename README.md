@@ -79,3 +79,9 @@
 ### Valid Parenthethis
 
 [Leet Code Link](https://leetcode.com/problems/valid-parentheses/submissions/1334803336/)
+
+### [Day-14]
+
+### Maximum Points You Can Obtain from Cards
+
+[Leet Code Link](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/description/)
