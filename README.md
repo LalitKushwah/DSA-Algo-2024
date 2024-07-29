@@ -85,3 +85,9 @@
 ### Maximum Points You Can Obtain from Cards
 
 [Leet Code Link](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/description/)
+
+### [Day-15]
+
+### Subarray Sum Equals K
+
+[Leet Code Link](https://leetcode.com/problems/subarray-sum-equals-k/solutions/408341/javascript-brute-force-hashmap-solution-w-explanation/?show=1)
