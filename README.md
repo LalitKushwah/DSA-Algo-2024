@@ -91,3 +91,10 @@
 ### Subarray Sum Equals K
 
 [Leet Code Link](https://leetcode.com/problems/subarray-sum-equals-k/solutions/408341/javascript-brute-force-hashmap-solution-w-explanation/?show=1)
+
+### [Day-16]
+
+### Longest Substring With K Unique Characters
+
+[Leet Code Link](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/)
+[GFG](https://www.geeksforgeeks.org/find-the-longest-substring-with-k-unique-characters-in-a-given-string/)
