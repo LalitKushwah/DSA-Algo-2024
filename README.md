@@ -98,3 +98,9 @@
 
 [Leet Code Link](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/)
 [GFG](https://www.geeksforgeeks.org/find-the-longest-substring-with-k-unique-characters-in-a-given-string/)
+
+### [Day-17]
+
+### Longest Common Prefix
+
+[Leet Code Link](https://leetcode.com/problems/longest-common-prefix/description/)
