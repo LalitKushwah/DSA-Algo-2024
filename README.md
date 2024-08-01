@@ -104,3 +104,9 @@
 ### Longest Common Prefix
 
 [Leet Code Link](https://leetcode.com/problems/longest-common-prefix/description/)
+
+### [Day-18]
+
+### Jump Game
+
+[Leet Code Link](https://leetcode.com/problems/jump-game/description/)
