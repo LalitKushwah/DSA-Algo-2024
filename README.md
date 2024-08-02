@@ -110,3 +110,9 @@
 ### Jump Game
 
 [Leet Code Link](https://leetcode.com/problems/jump-game/description/)
+
+### [Day-19]
+
+### Majority Element
+
+[Leet Code Link](https://leetcode.com/problems/majority-element/description/)
