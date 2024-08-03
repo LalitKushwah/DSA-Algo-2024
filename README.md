@@ -116,3 +116,9 @@
 ### Majority Element
 
 [Leet Code Link](https://leetcode.com/problems/majority-element/description/)
+
+### [Day-20]
+
+### Find missing number
+
+[Leet Code Link](https://leetcode.com/problems/missing-number/submissions/1343534504/)
