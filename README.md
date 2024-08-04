@@ -122,3 +122,9 @@
 ### Find missing number
 
 [Leet Code Link](https://leetcode.com/problems/missing-number/submissions/1343534504/)
+
+### [Day-21]
+
+### Valid Square
+
+[Leet Code Link](https://leetcode.com/problems/valid-square/description/)
