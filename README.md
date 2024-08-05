@@ -128,3 +128,9 @@
 ### Valid Square
 
 [Leet Code Link](https://leetcode.com/problems/valid-square/description/)
+
+### [Day-22]
+
+### Generate Parentheses
+
+[Leet Code Link](https://leetcode.com/problems/generate-parentheses/description/)
