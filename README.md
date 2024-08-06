@@ -134,3 +134,9 @@
 ### Generate Parentheses
 
 [Leet Code Link](https://leetcode.com/problems/generate-parentheses/description/)
+
+### [Day-23]
+
+### Longest Repeating Character Replacement
+
+[Leet Code Link](https://leetcode.com/problems/longest-repeating-character-replacement/description/)
