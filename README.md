@@ -140,3 +140,10 @@
 ### Longest Repeating Character Replacement
 
 [Leet Code Link](https://leetcode.com/problems/longest-repeating-character-replacement/description/)
+
+### [Day-24]
+
+### Roman to Integer and vice versa
+
+[Leet Code Link](https://leetcode.com/problems/roman-to-integer/submissions/1348188134/)
+[Leet Code Link](https://leetcode.com/problems/integer-to-roman/description/)
