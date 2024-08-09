@@ -153,3 +153,9 @@
 ### Groups of strings that are anagrams
 
 [GFG](https://www.geeksforgeeks.org/problems/print-anagrams-together/1)
+
+### [Day-26]
+
+### Smallest window in a string containing all the characters of another string
+
+[GFG](https://www.geeksforgeeks.org/problems/smallest-window-in-a-string-containing-all-the-characters-of-another-string-1587115621/1)
