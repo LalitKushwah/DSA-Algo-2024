@@ -165,3 +165,9 @@
 ### Word Search
 
 [LeetCode](https://leetcode.com/problems/word-search/description/)
+
+### [Day-28]
+
+### Happy Number
+
+[LeetCode](https://leetcode.com/problems/happy-number/description/)
