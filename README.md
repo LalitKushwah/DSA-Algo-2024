@@ -171,3 +171,9 @@
 ### Happy Number
 
 [LeetCode](https://leetcode.com/problems/happy-number/description/)
+
+### [Day-29]
+
+### Find a pair with the given difference
+
+[GFG](https://www.geeksforgeeks.org/find-a-pair-with-the-given-difference/)
