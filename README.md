@@ -177,3 +177,7 @@
 ### Find a pair with the given difference
 
 [GFG](https://www.geeksforgeeks.org/find-a-pair-with-the-given-difference/)
+
+### [Day-30]
+
+### Largest sum subarray - Kadane's Algorithm
